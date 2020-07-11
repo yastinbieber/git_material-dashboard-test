@@ -1,0 +1,7 @@
+{
+  "name": "toreka",
+  "private": true,
+  "dependencies": {
+    "material-dashboard": "^2.1.0"
+  }
+}
